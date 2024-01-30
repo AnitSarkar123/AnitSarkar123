@@ -81,4 +81,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnitSarkar123&label=Profile%20views&color=00ff6e&style=flat" alt="bishakhne0gi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnitSarkar123&label=Profile%20views&color=00ff6e&style=flat" alt="@AnitSarkar123" /> </p>
