@@ -61,7 +61,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnitSarkar123&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=AnitSarkar123&show_icons=true&hide=&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnitSarkar123&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnitSarkar123&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnitSarkar123&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnitSarkar123&theme=github&utcOffset=8)
