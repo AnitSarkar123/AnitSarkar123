@@ -60,7 +60,7 @@
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnitSarkar123&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=AnitSarkar123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px)
+![](https://github-readme-stats.vercel.app/api?username=AnitSarkar123&show_icons=true&hide=&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnitSarkar123&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnitSarkar123&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnitSarkar123&theme=github)
