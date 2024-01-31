@@ -10,7 +10,7 @@
 🌍 I'm based in West Bengal, India<br><br>
 🌱 I’m pursuing **B.Tech. in Electronics and Communication Engineering**<br><br>👯 I’m into **Coading and Problem Solving**<br><br>📫 - ✉️ You can contact me at [anitsarkar2022@gmail.com](mailto:AnitSarkar@gmail.com)<br><br>🤝 I'm open to collaborating on all types of Open Source Projects
 
-## 🌐 Places where You find me or Contact with me:
+## 🌐 Places where You Can Connect with me:
 
 <p align="left">
    <a href="https://www.linkedin.com/in/anit-sarkar-11906a283/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnitSarkar" height="30" width="40" /></a>&ensp;
