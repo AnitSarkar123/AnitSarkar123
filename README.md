@@ -8,7 +8,7 @@
 # 💫 About Me:
 
 🌍 I'm based in West Bengal, India<br><br>
-🌱 I’m pursuing **B.Tech. in Electronics and Communication Engineering**<br><br>👯 I’m into **Coading and Problem Solving**<br><br>📫 - ✉️ You can contact me at [anitsarkar2022@gmail.com](mailto:AnitSarkar@gmail.com)<br><br>🤝 I'm open to collaborating on all types of Open Source Projects
+🌱 I’m pursuing **B.Tech. in Electronics and Communication Engineering**<br><br>👯 I’m into **Codeing and Problem Solving**<br><br>📫 - ✉️ You can contact me at [anitsarkar2022@gmail.com](mailto:AnitSarkar@gmail.com)<br><br>🤝 I'm open to collaborating on all types of Open Source Projects
 
 ## 🌐 Places where You Can Connect with me:
 
