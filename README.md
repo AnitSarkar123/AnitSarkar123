@@ -59,12 +59,12 @@
 
 # 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnitSarkar123&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=AnitSarkar123&theme=dark&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnitSarkar123&theme=dark&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnitSarkar123&theme=dark&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnitSarkar123&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnitSarkar123&theme=dark&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnitSarkar123&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=AnitSarkar123&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnitSarkar123&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnitSarkar123&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnitSarkar123&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnitSarkar123&theme=dark)
 
 
 ## 🏆 GitHub Trophies
