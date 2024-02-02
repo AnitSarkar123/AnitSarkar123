@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anit Sarkar</h1>
 
-<h3 align="center">I am a First-year ECE undergrad from Academy of Technology. I love solving problems and have a knowledgh for developing things and learning more about technology. </h3>
+<h3 align="center">I am a First-year ECE undergrad from Academy of Technology. I love solving problems and have a knowledge for developing things and learning more about technology. </h3>
 
 ![Coader and Programer](https://avatars.githubusercontent.com/u/135215478?v=4)
 ![Coading  gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)
