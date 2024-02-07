@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a First-year ECE undergrad from Academy of Technology. I love solving problems and have a knowledge for developing things and learning more about technology. </h3>
 
-![GitHub statsinshort](https://github-stats-alpha.vercel.app/api?username=AnitSarkar123&cc=000&tc=fff&ic=fff&bc=000 "profile")
+![GitHub stats in   short](https://github-stats-alpha.vercel.app/api?username=AnitSarkar123&cc=000&tc=fff&ic=fff&bc=000 "profile")
 ![Coading  gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)
 
 # 💫 About Me:
