@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anit Sarkar</h1>
-[![An image of @anitsarkar123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anitsarkar123)](https://holopin.io/@anitsarkar123)
-<h3 align="center">I am a Second-year ECE undergrad from Academy of Technology. I love solving problems and have a knowledge for developing things and learning more about technology. </h3>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
+</p>
+<p align="center">
+  <a href="https://holopin.io/@anitsarkar123">
+    <img src="https://holopin.me/anitsarkar123" alt="Anit Sarkar's Holopin badges" width="900" />
+  </a>
+</p>
 
 ![GitHub stats in   short](https://github-stats-alpha.vercel.app/api?username=AnitSarkar123&cc=000&tc=fff&ic=fff&bc=000 "profile")
 ![Coading  gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)
