@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anit Sarkar</h1>
-
+[![An image of @anitsarkar123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anitsarkar123)](https://holopin.io/@anitsarkar123)
 <h3 align="center">I am a Second-year ECE undergrad from Academy of Technology. I love solving problems and have a knowledge for developing things and learning more about technology. </h3>
 
 ![GitHub stats in   short](https://github-stats-alpha.vercel.app/api?username=AnitSarkar123&cc=000&tc=fff&ic=fff&bc=000 "profile")
