@@ -76,7 +76,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhin114" alt="tuhin114" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnitSarkar123" alt="AnitSarkar123" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
